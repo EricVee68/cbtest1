@@ -3,7 +3,7 @@ window.onload = function() {
     // Create the main chatbot container
     var chatContainer = document.createElement("div");
     chatContainer.style.position = "fixed";
-    chatContainer.style.left = "0";
+    chatContainer.style.right = "0";
     chatContainer.style.bottom = "0";
     chatContainer.style.width = "300px";
     chatContainer.style.backgroundColor = "#f8f9fa";
